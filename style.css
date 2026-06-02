@@ -45,8 +45,8 @@ h1{
     padding-bottom: 1px;
     padding-left: 30px;
     padding-right: 30px;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 180px;
+    margin-right: 180px;
 }
 .card2{
     margin: 25px;
@@ -67,7 +67,8 @@ img{
     justify-content: center;
     margin: 15px;
     gap: 40px;
-  
+    width: 1500px;
+    height: 230px;
 
 }
 
@@ -76,4 +77,9 @@ img{
     justify-content: center;
     border-radius: 30px;
 
+}
+footer{
+    background-color: #9F73CC;
+    display: flex;
+    margin-top: 100px;
 }
